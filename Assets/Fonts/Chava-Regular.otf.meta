@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7f19a59202f9f6f4a9bdc87234889aeb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chava
+  fontNames:
+  - Chava
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad24f52b477fd744ea3f8298f7059d53, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
